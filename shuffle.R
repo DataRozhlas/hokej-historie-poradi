@@ -25,7 +25,7 @@ vysledek <- numeric()
 return(toJSON(vysledek))
 }
 
-zjistiPoradi("Maďarsko", data)
+zjistiPoradi(paste0("Česko", "$"), data)
 
 
 
